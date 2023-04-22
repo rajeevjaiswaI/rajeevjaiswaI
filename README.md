@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeevjaiswal
-- 👀 I’m interested in Business Analytics
+- 👀 I’m interested in Business Analytics and web development
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate with Startups 
 - 📫 Reach me @ rajeevjaiswal027@gmail.com
